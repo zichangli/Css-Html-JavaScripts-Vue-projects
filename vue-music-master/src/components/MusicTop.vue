@@ -26,7 +26,7 @@
         </span>
       </div>
       <div class="right-box-img">
-        <img src="../assets/listCover.jpg" alt="" />
+        <img src="../assets/kabuda.jpg" alt="" />
       </div>
     </div>
   </div>

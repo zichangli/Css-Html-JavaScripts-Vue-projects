@@ -6,7 +6,7 @@
       <el-carousel-item v-for="(item, index) in banners" :key="index">
         <a
           target="_blank"
-          :href="item.url == null ? 'https://gitee.com/S88888888' : item.url"
+          :href="item.url == null ? 'https://github.com/zichangli' : item.url"
           ><img :src="item.imageUrl" alt="推荐广告信息"
         /></a>
       </el-carousel-item>
